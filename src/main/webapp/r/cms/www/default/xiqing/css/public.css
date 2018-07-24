@@ -38,7 +38,7 @@ body {
 
 .head .sc a {
 	color: #fff;
-	font-size: 15px;
+	font-size: 14px;
 	line-height: 41px;
 	text-align: center;
 }
@@ -214,7 +214,6 @@ body {
 .zuo {
 	width: 145px;
 	height: 271px;
-	background: url("../images/you.png") no-repeat;
 	position: fixed;
 	top: 40%;
 	left: 0;
@@ -232,7 +231,6 @@ body {
 .you {
 	width: 145px;
 	height: 271px;
-	background: url("../images/zuo.png") no-repeat;
 	position: fixed;
 	top: 40%;
 	right: 0;

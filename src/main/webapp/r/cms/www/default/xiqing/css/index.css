@@ -42,7 +42,7 @@
 
 .today .to_right .p2 {
 	color: #B8B8B8;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .today .login {
@@ -99,7 +99,7 @@
 	border-left: 3px solid #006FCF;
 	text-indent: .5em;
 	color: #929292;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .content .con_left .tz .res {
@@ -120,7 +120,7 @@
 
 .content .con_left .tz .res .res_c {
 	color: #7D7D7D;
-	font-size: 16px;
+	font-size: 14px;
 	text-indent: 2em;
 }
 
@@ -144,7 +144,7 @@
 
 .content .con_left .tz .res_ul li a p {
 	color: #767676;
-	font-size: 16px;
+	font-size: 14px;
 	margin-top: 10px;
 }
 
@@ -164,7 +164,7 @@
 .content .con_left .tz .res_ul li span.time {
 	color: #CACACA;
 	float: right;
-	font-size: 16px;
+	font-size: 14px;
 	margin-top: 10px;
 }
 
@@ -185,8 +185,8 @@
 	height: 36px;
 	background: url("../images/b.png") no-repeat;
 	color: #fff;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 	line-height: 36px;
 	float: left;
 }
@@ -224,8 +224,8 @@
 	height: 36px;
 	background: url("../images/b.png") no-repeat;
 	color: #fff;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 	line-height: 36px;
 	float: left;
 }
@@ -264,14 +264,14 @@
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	color: #585858;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 }
 
 .content .con_left .jc .jc_bot ul li span.time {
 	float: right;
 	color: #585858;
-	font-size: 16px;
+	font-size: 14px;
 	margin-top: 8px;
 }
 
@@ -298,8 +298,8 @@
 	height: 36px;
 	background: url("../images/b.png") no-repeat;
 	color: #fff;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 	line-height: 36px;
 	float: left;
 }
@@ -342,14 +342,14 @@
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	color: #585858;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 }
 
 .content .con_left .gz .jc_bot ul li span.time {
 	float: right;
 	color: #585858;
-	font-size: 16px;
+	font-size: 14px;
 	margin-top: 8px;
 }
 
@@ -376,8 +376,8 @@
 	height: 36px;
 	background: url("../images/b.png") no-repeat;
 	color: #fff;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 	line-height: 36px;
 	float: left;
 }
@@ -416,14 +416,14 @@
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	color: #585858;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 }
 
 .content .con_left .fl .jc_bot ul li span.time {
 	float: right;
 	color: #585858;
-	font-size: 16px;
+	font-size: 14px;
 	margin-top: 8px;
 }
 
@@ -452,8 +452,8 @@
 	height: 36px;
 	background: url("../images/b.png") no-repeat;
 	color: #fff;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 	line-height: 36px;
 	float: left;
 }
@@ -492,14 +492,14 @@
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	color: #585858;
-	font-size: 16px;
-	text-indent: 1em;
+	font-size: 14px;
+	text-indent: 0.5em;
 }
 
 .content .con_left .lt .jc_bot ul li span.time {
 	float: right;
 	color: #585858;
-	font-size: 16px;
+	font-size: 14px;
 	margin-top: 8px;
 }
 
@@ -544,7 +544,7 @@
 .content .con_right .zb .rw {
 	text-align: center;
 	color: #B7B7B7;
-	font-size: 16px;
+	font-size: 14px;
 	color: #565656;
 	font-weight: bold;
 	/*width:173px;*/
@@ -558,7 +558,7 @@
 }
 
 .content .con_right .tx .tx_title {
-	font-size: 16px;
+	font-size: 14px;
 	color: #fff;
 	text-align: center;
 	width: 100%;
@@ -588,9 +588,9 @@
 }
 
 .content .con_right .search .se_t p {
-	font-size: 16px;
+	font-size: 14px;
 	color: #fff;
-	text-indent: 1em;
+	text-indent: 0.5em;
 	background: url("../images/b.png") no-repeat;
 	width: 134px;
 	height: 36px;
@@ -625,7 +625,8 @@ select::-ms-expand {
 }
 
 .content .con_right .search .se_t .xz .te {
-	width: 128px;
+	width: 188px;
+	margin-left: 10px;
 }
 
 .content .con_right .search .se_t .xz .tt {
@@ -651,9 +652,9 @@ select::-ms-expand {
 }
 
 .xg .xg1 p {
-	font-size: 16px;
+	font-size: 14px;
 	color: #fff;
-	text-indent: 1em;
+	text-indent: 0.5em;
 	background: url("../images/b.png") no-repeat;
 	width: 134px;
 	height: 36px;
@@ -669,10 +670,10 @@ select::-ms-expand {
 
 .xg .xg2 a {
 	color: #679BDC;
-	font-size: 16px;
+	font-size: 14px;
 	display: block;
 	padding-top: 20px;
-	text-indent: 1em;
+	text-indent: 0.5em;
 }
 /*专项工作信息*/
 .xx {
@@ -688,13 +689,14 @@ select::-ms-expand {
 }
 
 .xx .xx1 p {
-	font-size: 16px;
+	font-size: 14px;
 	color: #fff;
 	text-indent: 3px;
 	background: url("../images/b.png") no-repeat;
 	width: 134px;
 	height: 36px;
 	line-height: 36px;
+	text-indent: 0.5em;
 }
 
 .xx .xx2 {
@@ -729,13 +731,14 @@ select::-ms-expand {
 }
 
 .link .link1 p {
-	font-size: 16px;
+	font-size: 14px;
 	color: #fff;
 	text-indent: 3px;
 	background: url("../images/b.png") no-repeat;
 	width: 134px;
 	height: 36px;
 	line-height: 36px;
+	text-indent: 0.5em;
 }
 
 .link .link2 {
@@ -771,7 +774,7 @@ select::-ms-expand {
 	text-align: center;
 	width: 65px;
 	margin: 0 auto;
-	font-size: 16px;
+	font-size: 14px;
 	color: #428ADA;
 }
 /*检察文化建设*/
@@ -789,7 +792,7 @@ select::-ms-expand {
 	line-height: 40px;
 	text-align: center;
 	color: #fff;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .wh .tp {
