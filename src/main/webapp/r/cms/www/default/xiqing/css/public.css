@@ -1,0 +1,248 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Î¢ÈíÑÅºÚ";
+}
+
+.clear {
+	clear: both;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+
+body {
+	width: 100%;
+	height: auto;
+	background: url("../images/bj.jpg") no-repeat;
+	background-size: 100%;
+}
+
+.head {
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.head .sc {
+	background: url("../images/c.png");
+	width: 168px;
+	height: 38px;
+	float: right;
+}
+
+.head .sc a {
+	color: #fff;
+	font-size: 15px;
+	line-height: 41px;
+	text-align: center;
+}
+
+.head .sc a.join {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+/*logo*/
+.logo {
+	width: 100%;
+	height: 270px;
+}
+
+.logo img {
+	float: right;
+}
+/*//µ¼º½*/
+.head .nav {
+	width: 100%;
+	height: 68px;
+	background: #006FCF;
+	clear: both;
+	position: absolute;
+	top: 93.5%;
+}
+
+.head .nav .nav_ul {
+	width: 100%;
+	height: 68px;
+}
+
+.head .nav .nav_ul li {
+	width: 16.5%;
+	height: 68px;
+	float: left;
+	list-style: none;
+}
+
+.head .nav .nav_ul li a {
+	color: #fff;
+	line-height: 68px;
+	text-align: center;
+	display: block;
+	font-size: 18px;
+}
+
+.head .nav .nav_ul li.tw {
+	position: relative;
+}
+
+.head .nav .nav_ul li.tw a.tw1 {
+	background: url("../images/j.png") right no-repeat;
+	width: 61%;
+}
+
+.head .nav .nav_ul li.tw:hover .nav_ul2 {
+	display: block;
+}
+
+.head .nav .nav_ul li.tw .nav_ul2 {
+	position: absolute;
+	left: 0;
+	top: 58px;
+	display: none;
+	z-index: 999;
+	width: 528px;
+	height: 100px;
+	background: url("../images/11.png") no-repeat;
+	padding: 15px 20px;
+}
+
+.head .nav .nav_ul li.tw .nav_ul2 a.n2 {
+	font-size: 14px;
+	color: #000;
+	display: inline-block;
+	line-height: 10px;
+	margin-right: 40px;
+	padding-bottom: 20px;
+}
+
+.head .nav .nav_ul li.tw .nav_ul2 a.acc {
+	color: #006FCF;
+}
+/*Î²²¿*/
+.foot {
+	width: 100%;
+	height: 290px;
+}
+
+.foot .foot_top {
+	width: 100%;
+	height: 250px;
+	background: #0173D4;
+}
+
+.foot .foot_top .cer {
+	width: 1200px;
+	height: 250px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.foot .foot_top .cer .f_logo {
+	display: inline-block;
+	float: left;
+	width: 111px;
+	height: 113px;
+	margin-top: 68px;
+	margin-left: 18px;
+	margin-right: 2em;
+}
+
+.foot .foot_top .dre {
+	float: left;
+	border-left: 1px solid #fff;
+	height: auto;
+	margin-top: 88px;
+}
+
+.foot .foot_top .dre p {
+	color: #fff;
+	font-size: 14px;
+	text-indent: 2em;
+	margin-bottom: 10px;
+}
+
+.foot .foot_top .wx {
+	float: right;
+	margin-top: 60px;
+}
+
+.foot .foot_top .wx .wx1 {
+	float: left;
+	margin-right: 15px;
+}
+
+.foot .foot_top .wx .wx2 {
+	float: left;
+}
+
+.foot .foot_top .wx img {
+	width: 113px;
+	height: 113px;
+	display: inline-block
+}
+
+.foot .foot_top .wx p {
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+}
+
+.foot .foot_bot {
+	width: 100%;
+	height: 40px;
+	background: #9CC9EE;
+}
+
+.foot .foot_bot p {
+	color: #131C23;
+	width: 1200px;
+	margin: 0 auto;
+	line-height: 40px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.foot .foot_bot p span {
+	color: red;
+}
+
+.zuo {
+	width: 145px;
+	height: 271px;
+	background: url("../images/you.png") no-repeat;
+	position: fixed;
+	top: 40%;
+	left: 0;
+	z-index: 99999;
+}
+
+.zuo .close {
+	color: transparent;
+	float: right;
+	cursor: pointer;
+	margin-right: 5px;
+	font-size: 14px;
+}
+
+.you {
+	width: 145px;
+	height: 271px;
+	background: url("../images/zuo.png") no-repeat;
+	position: fixed;
+	top: 40%;
+	right: 0;
+	z-index: 99999;
+}
+
+.you .close1 {
+	color: transparent;
+	cursor: pointer;
+	margin-left: 9px;
+	font-size: 14px;
+	margin-top: 5px;
+}
